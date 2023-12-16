@@ -1,4 +1,4 @@
-# GifsApp
+# GifsApp es una aplicación simple y efectiva que te permite buscar GIFs de manera rápida a través de una API. Con una interfaz intuitiva, podrás explorar una amplia variedad de animaciones y mantener un historial de los últimos 10 GIFs buscados.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
